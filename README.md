@@ -1,5 +1,4 @@
-#Seaborn Basic Tutorial
-
+# Seaborn Basic Tutorial
 ### Shortcuts of Jupyter Notebook
 * Command Mode
 shift + enter run cell, select below
