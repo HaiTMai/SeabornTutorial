@@ -1,6 +1,5 @@
 # Seaborn Basic Tutorial
 ### Command Mode
-* Command Mode
 * ECS->R->Y Remove current output
 * shift + enter run cell, select below
 * ctrl + enter run cell
