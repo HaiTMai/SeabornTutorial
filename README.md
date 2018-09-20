@@ -1,4 +1,5 @@
 # Seaborn Basic Tutorial
+## Shortcuts for Jupyter Notebook
 ### Command Mode
 * ECS->R->Y Remove current output
 * shift + enter run cell, select below
