@@ -1,5 +1,18 @@
 # Seaborn Basic Tutorial
-### 1. Shortcuts for Jupyter Notebook
+### 1. Demo plots
+* Bar Plot
+* Point Plot
+* Joint Plot
+* Pie Chart
+* Lm Plot
+* Kde Plot
+* Violin Plot
+* Heatmap
+* Box Plot
+* Swarm Plot
+* Pair Plot
+* Count Plot
+### 2. Shortcuts for Jupyter Notebook
 #### Command Mode
 * ECS->R->Y Remove current output
 * shift + enter run cell, select below
@@ -23,16 +36,4 @@
 * shift + tab tooltip
 * ctrl + shift + - split cell
 
-### 2. Demo plots
-* Bar Plot
-* Point Plot
-* Joint Plot
-* Pie Chart
-* Lm Plot
-* Kde Plot
-* Violin Plot
-* Heatmap
-* Box Plot
-* Swarm Plot
-* Pair Plot
-* Count Plot
+
