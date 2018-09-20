@@ -1,1 +1,1 @@
-SeabornTutorial
+Seaborn Basic Tutorial
